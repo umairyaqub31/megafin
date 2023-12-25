@@ -1,0 +1,14 @@
+input::placeholder{
+   
+}
+
+@media screen and (max-width: 768px) {
+    input {
+      width: 100%; 
+    }
+    
+    input::placeholder {
+      padding-left: 14px; 
+        font-weight: bold;
+    }
+  }

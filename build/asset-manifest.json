@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.035045fb.css",
+    "main.js": "/static/js/main.e47b1846.js",
+    "static/media/building.png": "/static/media/building.712ae235c3f6a0531a42.png",
+    "static/media/bgAccount.png": "/static/media/bgAccount.6d5160fda6e44c6bc000.png",
+    "static/media/services.png": "/static/media/services.5ba73add4d12ed322c54.png",
+    "static/media/main.png": "/static/media/main.0a3130902c4744da01dc.png",
+    "static/media/image 6.png": "/static/media/image 6.f2375198b247903f4dec.png",
+    "static/media/bannerAbout.png": "/static/media/bannerAbout.7b02b97ce9cf7694686c.png",
+    "static/media/bannerContact.png": "/static/media/bannerContact.d10ab7454b015b45b7f5.png",
+    "static/media/handShake.png": "/static/media/handShake.0acce8388e3c0be6d32d.png",
+    "static/media/Polygon 17.png": "/static/media/Polygon 17.310441412e0b2dae5859.png",
+    "static/media/about.png": "/static/media/about.61c35453c0b84c798607.png",
+    "static/media/greensmallcircle.png": "/static/media/greensmallcircle.aef1d223dcd04807269c.png",
+    "static/media/circleres.png": "/static/media/circleres.221e7726a5b03d208606.png",
+    "static/media/Group 69.png": "/static/media/Group 69.60cb154fd8f4171780f6.png",
+    "static/media/testimonial1.png": "/static/media/testimonial1.0800846dd8d787edf730.png",
+    "static/media/footer_logo.png": "/static/media/footer_logo.c8149545c8a18a37cabc.png",
+    "static/media/Logo.png": "/static/media/Logo.db1bff683e5ef5f6a202.png",
+    "static/media/image 11.png": "/static/media/image 11.6ae81a80e31c3005246e.png",
+    "index.html": "/index.html",
+    "main.035045fb.css.map": "/static/css/main.035045fb.css.map",
+    "main.e47b1846.js.map": "/static/js/main.e47b1846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.035045fb.css",
+    "static/js/main.e47b1846.js"
+  ]
+}
